@@ -52,7 +52,7 @@
 1. Клонируйте репозиторий:
 
     ```sh
-    git clone <https://github.com/eghrthrjdtsed/DS.git>
+    git clone <https://github.com/eghrthrjdtsed/Data_Science.git>
     ```
 
 2. Перейдите в директорию репозитория:
